@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou Robson Torquato 👋</h1>
+<h1 align="center">Robson Torquato</h1>
 
 <h3 align="center">QA Analyst | Tech Writer | Full Stack Developer</h3>
 
@@ -15,7 +15,7 @@ Profissional de tecnologia com experiência em Quality Assurance, documentação
 
 Atuo na validação de aplicações web, mobile e APIs REST, análise de regras de negócio, identificação de inconsistências e documentação de implementações técnicas.
 
-Tenho interesse em Inteligência Artificial aplicada à tecnologia e em soluções que contribuam para a evolução da qualidade de software.
+Inteligência Artificial aplicada à tecnologia e em soluções que contribuam para a evolução da qualidade de software.
 
 ### Tecnologias e ferramentas
 
@@ -34,9 +34,3 @@ Postman • Insomnia • Swagger
 **Ferramentas**
 <br>
 Git • GitHub • Inteligência Artificial
-
----
-
-<p align="center">
-  <i>Aprendizado contínuo, qualidade e inovação.</i>
-</p>
