@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá! 👋 Eu sou profissional de Tecnologia</h1>
+<h1 align="center">Olá!Eu sou profissional de Tecnologia</h1>
 
 <h3 align="center">QA Analyst | Tech Writer | Full Stack Developer</h3>
 
