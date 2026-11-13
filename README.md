@@ -11,7 +11,7 @@
 
 ### Sobre mim
 
-São mais de uma década trabalhando com tecnologia experiência sólida em Quality Assurance, documentação técnica e desenvolvimento Full. Stack.
+Mais de uma década trabalhando com tecnologia experiência sólida em Quality Assurance, documentação técnica e desenvolvimento Full. Stack.
 
 Atuo na validação de aplicações web, mobile e APIs REST, análise de regras de negócio, identificação de inconsistências e documentação de implementações técnicas.
 
